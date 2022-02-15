@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/1ef259576ee839b1e45248f6718e025a_monstermakers1.JPG
+file: /media/courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/1ef259576ee839b1e45248f6718e025a_monstermakers1.JPG
 file_type: image/jpeg
 image_metadata:
   caption: 'Instructional screen awaiting monster creation.
@@ -13,6 +13,10 @@ image_metadata:
   credit: ''
   image-alt: Screen with instructions for game and placeholders for head, torso, legs,
     and feet.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Monster Makers
+parent_type: CourseSection
 resourcetype: Image
 title: monstermakers1.JPG
 uid: 1ef25957-6ee8-39b1-e452-48f6718e025a

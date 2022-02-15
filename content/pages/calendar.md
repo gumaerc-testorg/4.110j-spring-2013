@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 74d1f4ad-f2b3-5795-0960-abb949f4177f
 ---
@@ -38,8 +40,8 @@ Lab 1
 2-Dimensional Presentational Design Tools and Animation Tools
 
 *   Image processing and illustration
-*   Adobe Photoshop® (filtering, blending, masking, batch processing)
-*   Adobe Illustrator® (vector drawing)
+*   Adobe Photoshop{{< sup "®" >}} (filtering, blending, masking, batch processing)
+*   Adobe Illustrator{{< sup "®" >}} (vector drawing)
 *   File exchange
 *   Animation (after effects, video effects, timeline animation, composition flash, timeline, vector animation, interaction)
 
@@ -136,7 +138,7 @@ In-class Presentations: Assignment 1
 Lab 5
 {{< tdclose >}}
 {{< tdopen >}}
-2D and 3D CAD Tools: Autocad®, Rhino®, 3DSMax®, SolidWorks®
+2D and 3D CAD Tools: Autocad{{< sup "®" >}}, Rhino{{< sup "®" >}}, 3DSMax{{< sup "®" >}}, SolidWorks{{< sup "®" >}}
 {{< tdclose >}}
 
 {{< trclose >}}

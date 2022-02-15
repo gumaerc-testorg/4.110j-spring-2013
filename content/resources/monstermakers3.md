@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/0198b7820bf374e6f21b91b7e7ec93c4_monstermakers3.JPG
+file: /media/courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/0198b7820bf374e6f21b91b7e7ec93c4_monstermakers3.JPG
 file_type: image/jpeg
 image_metadata:
   caption: 'Player 3 completing his monster with frog''s feet.
@@ -17,6 +17,10 @@ image_metadata:
   credit: ''
   image-alt: Screen with alligator head, chameleon torso, jellyfish legs, and frog
     feet.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Monster Makers
+parent_type: CourseSection
 resourcetype: Image
 title: monstermakers3.JPG
 uid: 0198b782-0bf3-74e6-f21b-91b7e7ec93c4

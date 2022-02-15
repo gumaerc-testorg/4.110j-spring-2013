@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/ed2ccb2f2e64907cc23548676eef51b6_monstermakers4.JPG
+file: /media/courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/ed2ccb2f2e64907cc23548676eef51b6_monstermakers4.JPG
 file_type: image/jpeg
 image_metadata:
   caption: 'Simulation deciding the winner by longest survival time.
@@ -16,6 +16,10 @@ image_metadata:
     *   Beware the taller grasses, for within them lies the prairie cat. 16 years.'
   credit: ''
   image-alt: Results screen with all four monsters.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Monster Makers
+parent_type: CourseSection
 resourcetype: Image
 title: monstermakers4.JPG
 uid: ed2ccb2f-2e64-907c-c235-48676eef51b6

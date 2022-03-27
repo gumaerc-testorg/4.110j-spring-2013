@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Equilibrium
 parent_type: CourseSection
+parent_uid: 820e9dfb-2133-7d39-23c8-7a0d96718c93
 resourcetype: Image
 title: equilibrium2.jpg
 uid: 6655cac4-20da-9634-3974-0152eba8cefa

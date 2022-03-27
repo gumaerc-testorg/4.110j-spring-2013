@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Pigs in a Blanket
 parent_type: CourseSection
+parent_uid: 66c6b6f4-8637-3112-5a60-f01ad3b7f361
 resourcetype: Image
 title: pigs1.JPG
 uid: e730f5be-94ce-b49f-c46a-8001c04e9d20

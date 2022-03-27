@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Poesis
 parent_type: CourseSection
+parent_uid: ef17070b-7f3f-63da-9a73-90eac330fbef
 resourcetype: Image
 title: poesis6.jpg
 uid: 33af5a68-b112-52cc-a885-d0536a215a9d

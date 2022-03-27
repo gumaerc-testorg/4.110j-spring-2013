@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Marble Master
 parent_type: CourseSection
+parent_uid: a7e4a823-65e4-1c6f-4fcf-682395bb0a7b
 resourcetype: Image
 title: marblemaster3.jpg
 uid: d5cefba5-b6fc-ef47-03d2-d6c389b83ca8

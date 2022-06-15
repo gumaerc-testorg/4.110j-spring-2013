@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The section provides the schedule of lectures, labs, screenings, assignments,
+  and student presentations.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar

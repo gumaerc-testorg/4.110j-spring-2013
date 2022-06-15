@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'This section contains a gallery of images showing student work for an
+  assignment to design a game that abstracts a global issue. Game summary: Players
+  try to balance on the wooden platform.'
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

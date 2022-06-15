@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/3a6b0255e76997dad4f57a805e15154f_marblemaster2.jpg
+file: /courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/3a6b0255e76997dad4f57a805e15154f_marblemaster2.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Moves made by removing the sticks causing marbles to travel downward.

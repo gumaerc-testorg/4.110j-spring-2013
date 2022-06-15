@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: 'This section contains a gallery of images showing student work for an
+  assignment to design a game that abstracts a global issue. Game summary: Players
+  take turns removing sticks held in a rack in order to guide marbles down to their
+  respective pots for scoring.'
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

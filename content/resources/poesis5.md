@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/3644801e8d2bcea00dc9ac25593abdfd_poesis5.jpg
+file: /courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/3644801e8d2bcea00dc9ac25593abdfd_poesis5.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Fabricating the word tiles using a laser cutter.

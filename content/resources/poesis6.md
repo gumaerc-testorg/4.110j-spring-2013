@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/33af5a68b11252cca885d0536a215a9d_poesis6.jpg
+file: /courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/33af5a68b11252cca885d0536a215a9d_poesis6.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Board game including instructions, word tiles, and rack for tiles.

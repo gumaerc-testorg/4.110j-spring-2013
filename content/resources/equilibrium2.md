@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/6655cac420da963439740152eba8cefa_equilibrium2.jpg
+file: /courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/6655cac420da963439740152eba8cefa_equilibrium2.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Cutting details for the wooden platform on a CNC router.

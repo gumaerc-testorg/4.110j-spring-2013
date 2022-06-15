@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: 'This section contains a gallery of images showing student work for an
+  assignment to design a game that abstracts a global issue. Game summary: A team
+  of two catapults a group of four pigs while the other team of two tries to catch
+  them in a blanket.'
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

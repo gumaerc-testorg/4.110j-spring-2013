@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/0198b7820bf374e6f21b91b7e7ec93c4_monstermakers3.JPG
+file: /courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/0198b7820bf374e6f21b91b7e7ec93c4_monstermakers3.JPG
 file_type: image/jpeg
 image_metadata:
   caption: 'Player 3 completing his monster with frog''s feet.

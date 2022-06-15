@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: 'This section contains a gallery of images showing student work for an
+  assignment to design a game that abstracts a global issue. Game summary: Players
+  take turns adding words to form a poem and score points based on use of rhymes and
+  figurative language.'
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

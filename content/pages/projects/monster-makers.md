@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: 'This section contains a gallery of images showing student work for an
+  assignment to design a game that abstracts a global issue. Game summary: Four players
+  create monsters from picking sets of monster body parts, and compete to see which
+  monster survives the longest based on the unique combinations.'
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/89e8a572a70cf7f349eccd4c5e3ab391_poesis2.jpg
+file: /courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/89e8a572a70cf7f349eccd4c5e3ab391_poesis2.jpg
 file_type: image/jpeg
 image_metadata:
   caption: "Scoring for Poetic expression and figurative forms described on the game\u2019\

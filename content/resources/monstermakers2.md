@@ -18,6 +18,7 @@ image_metadata:
   credit: ''
   image-alt: Screen with head choices and no selection made.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Monster Makers
 parent_type: CourseSection

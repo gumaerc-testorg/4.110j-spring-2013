@@ -9,6 +9,7 @@ image_metadata:
   image-alt: Two people holding wooden tiles in their hands in front of a black and
     white board.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Poesis
 parent_type: CourseSection

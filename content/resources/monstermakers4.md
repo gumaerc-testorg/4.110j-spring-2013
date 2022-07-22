@@ -17,6 +17,7 @@ image_metadata:
   credit: ''
   image-alt: Results screen with all four monsters.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Monster Makers
 parent_type: CourseSection

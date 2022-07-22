@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: Marbles in the rack that have traveled halfway down.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Marble Master
 parent_type: CourseSection

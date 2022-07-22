@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: Spaces and slots being cut on a machine bed.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Poesis
 parent_type: CourseSection

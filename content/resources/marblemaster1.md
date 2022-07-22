@@ -9,6 +9,7 @@ image_metadata:
   credit: ''
   image-alt: Two people staring at a rack with wooden sticks and marbles on top.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Marble Master
 parent_type: CourseSection

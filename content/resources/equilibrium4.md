@@ -9,6 +9,7 @@ image_metadata:
   image-alt: Two people standing and balancing on a wooden platform with hexagonal
     holes.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Equilibrium
 parent_type: CourseSection

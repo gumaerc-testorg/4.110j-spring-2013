@@ -18,6 +18,7 @@ image_metadata:
   image-alt: Screen with alligator head, chameleon torso, jellyfish legs, and frog
     feet.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Monster Makers
 parent_type: CourseSection

@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: Student pouring liquid into cube mold.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Pigs in a Blanket
 parent_type: CourseSection

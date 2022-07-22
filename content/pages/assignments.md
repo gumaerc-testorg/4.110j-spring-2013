@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: The section provides descriptions of assignments required for the course,
+  including background, format, and recommended readings.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: b658b43a-9917-6fcf-c832-da1b2273ae00
 ---
@@ -77,4 +82,4 @@ Once the game is produced, you should play the game as well as allow another gro
 
 Huizinga, Johan. _Homo Ludens: A Study of the Play-Element in Culture_. Beacon Press, 1971. ISBN: 9780807046814.
 
-Zimmerman, Eric. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Play as Research: The Iterative Design Process (PDF - 5.17MB)](https://static1.squarespace.com/static/579b8aa26b8f5b8f49605c96/t/59921253cd39c3da5bd27a6f/1502745178453/Iterative_Design.pdf)." July 8, 2003.
+Zimmerman, Eric. "[Play as Research: The Iterative Design Process (PDF - 5.17MB)](https://static1.squarespace.com/static/579b8aa26b8f5b8f49605c96/t/59921253cd39c3da5bd27a6f/1502745178453/Iterative_Design.pdf)." July 8, 2003.

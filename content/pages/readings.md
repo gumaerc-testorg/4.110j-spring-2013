@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: The section provides the list of the recommended readings for each lecture
+  session of the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 013a4e1d-bc9e-55ef-b62b-2e3545139c5c
 ---
@@ -164,7 +169,7 @@ Minsky, Marvin L. _The Society of Mind_. Simon and Schuster, 1988. ISBN: 9780671
 
 Wiener, Norbert. _Cybernetics: or Control and Communication in the Animal and the Machine_. The Technology Press, 1948.
 
-Shannon, Claude E. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[A Mathematical Theory of Communication." (PDF)](http://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CCwQFjAA&url=http%3A%2F%2Fcm.bell-labs.com%2Fcm%2Fms%2Fwhat%2Fshannonday%2Fshannon1948.pdf&ei=0ydFUu2EOsfTrQf_vYEg&usg=AFQjCNElxuA1pHILAg-mmWI0gX03OT0NHA&bvm=bv.53217764,d.bmk) _The Bell System Technical Journal_ 27 (1948): 379–423, and 623–56.
+Shannon, Claude E. "[A Mathematical Theory of Communication." (PDF)](http://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CCwQFjAA&url=http%3A%2F%2Fcm.bell-labs.com%2Fcm%2Fms%2Fwhat%2Fshannonday%2Fshannon1948.pdf&ei=0ydFUu2EOsfTrQf_vYEg&usg=AFQjCNElxuA1pHILAg-mmWI0gX03OT0NHA&bvm=bv.53217764,d.bmk) _The Bell System Technical Journal_ 27 (1948): 379–423, and 623–56.
 
 Simon, Herbert A. _The Sciences of the Artificial_. MIT Press, 1981. ISBN: 9780262690737.
 

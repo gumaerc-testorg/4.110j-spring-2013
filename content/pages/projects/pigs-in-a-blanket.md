@@ -1,6 +1,14 @@
 ---
 content_type: page
+description: 'This section contains a gallery of images showing student work for an
+  assignment to design a game that abstracts a global issue. Game summary: A team
+  of two catapults a group of four pigs while the other team of two tries to catch
+  them in a blanket.'
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 4c3f522b-68c9-6358-1793-8665cc31ca8e
 title: Pigs in a Blanket
 uid: 66c6b6f4-8637-3112-5a60-f01ad3b7f361
@@ -11,7 +19,7 @@ uid: 66c6b6f4-8637-3112-5a60-f01ad3b7f361
 _Courtesy of Filip Goc, Emerald Ferreira-Yang, and MIT student. Used with permission._
 
 Game summary: A team of two catapults a group of four pigs while the other team of two tries to catch them in a blanket.
-{{< image-gallery id="66c6b6f4-8637-3112-5a60-f01ad3b7f361_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/" >}}
+{{< image-gallery id="66c6b6f4-8637-3112-5a60-f01ad3b7f361_nanogallery2" baseUrl="/courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/" >}}
 {{< image-gallery-item href="e730f5be94ceb49fc46a8001c04e9d20_pigs1.JPG" data-ngdesc="" text="Pigs used in the game." >}}
 {{< image-gallery-item href="f1f226607d63a7001eab205e122f283e_pigs2.jpg" data-ngdesc="" text="Teams taking turns catapulting pigs and catching them in a blanket." >}}
 {{< image-gallery-item href="73628bae05dfd22887cdc6e438272a5b_pigs3.JPG" data-ngdesc="" text="Player preparing to catapult a pig." >}}

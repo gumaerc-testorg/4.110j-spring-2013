@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provide a course overview and information on meeting
+  times, topics covered, requirements, and grading.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 2c96abbe-2a1a-2bcb-6cf1-26c089e826ab
 ---
@@ -45,7 +49,7 @@ The labs complement these topics by introducing tools for design and fabrication
 *   2-Dimensional Presentational Design Tools and Animation Tools
 *   Data Mining and Databases: CSV Database, Rapid Miner, XML, MySQL
 *   Data Processing and Visualization
-*   2D and 3D CAD Tools: Autocad®, Rhino®, 3DSMax®, SolidWorks®
+*   2D and 3D CAD Tools: Autocad{{< sup "®" >}}, Rhino{{< sup "®" >}}, 3DSMax{{< sup "®" >}}, SolidWorks{{< sup "®" >}}
 *   Fabrication Workshop: Laser-cutting, 3D Printing, File Setup and Exchange
 *   AI Tools: Programming Concepts, Optimization Methods, Example Applications
 *   Interactive Environments: Unity 3D, Augmented Reality

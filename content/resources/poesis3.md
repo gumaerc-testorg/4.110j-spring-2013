@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/5066841d32304a0afe55314d0aff2755_poesis3.jpg
+file_size: 51566
 file_type: image/jpeg
 image_metadata:
   caption: Earlier iterations of game with paper board and word tiles.

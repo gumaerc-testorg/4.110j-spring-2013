@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/01182fdf9054076c61b4558db30e2948_poesis7.jpg
+file_size: 72950
 file_type: image/jpeg
 image_metadata:
   caption: Two players adding words to the poem on the game board.

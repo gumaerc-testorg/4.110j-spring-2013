@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/f1f226607d63a7001eab205e122f283e_pigs2.jpg
+file_size: 68305
 file_type: image/jpeg
 image_metadata:
   caption: Teams taking turns catapulting pigs and catching them in a blanket.

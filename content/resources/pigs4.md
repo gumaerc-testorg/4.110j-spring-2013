@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/f015e222d6f2c1ebc8562a51466f1da1_pigs4.JPG
+file_size: 77486
 file_type: image/jpeg
 image_metadata:
   caption: Opposing team preparing to catch a pig.

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/b11c21585e13ee1f49a033ead0a47dc5_equilibrium4.jpg
+file_size: 75652
 file_type: image/jpeg
 image_metadata:
   caption: Two players engaging in the game.

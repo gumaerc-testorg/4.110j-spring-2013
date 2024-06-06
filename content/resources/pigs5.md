@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/b519b6f60e56e792df66129c29d7048d_pigs5.jpg
+file_size: 66349
 file_type: image/jpeg
 image_metadata:
   caption: Manufacturing pigs by creating molds and casting.

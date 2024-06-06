@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/26cf4c84587a3959716536c8a3639c61_equilibrium3.jpg
+file_size: 73525
 file_type: image/jpeg
 image_metadata:
   caption: Fabricating the beveled underbelly, which makes balancing challenging.

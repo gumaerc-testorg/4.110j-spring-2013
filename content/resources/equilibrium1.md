@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/a11acfb9dd6b32ca538dd300f7e41667_equilibrium1.jpg
+file_size: 70992
 file_type: image/jpeg
 image_metadata:
   caption: Cutting the outline for the wooden platform on a CNC router.

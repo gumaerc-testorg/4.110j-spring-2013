@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/34f12ba7408dd9d768eef110e58ac4fc_marblemaster4.jpg
+file_size: 111151
 file_type: image/jpeg
 image_metadata:
   caption: Game ending with all marbles dropped into pots at the bottom.

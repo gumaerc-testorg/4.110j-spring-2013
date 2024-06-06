@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/e730f5be94ceb49fc46a8001c04e9d20_pigs1.JPG
+file_size: 58273
 file_type: image/jpeg
 image_metadata:
   caption: Pigs used in the game.

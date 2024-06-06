@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/ed2ccb2f2e64907cc23548676eef51b6_monstermakers4.JPG
+file_size: 72259
 file_type: image/jpeg
 image_metadata:
   caption: 'Simulation deciding the winner by longest survival time.

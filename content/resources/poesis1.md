@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/36b411cc4e3fee75dacf2d130552b96e_poesis1.jpg
+file_size: 73094
 file_type: image/jpeg
 image_metadata:
   caption: "Poesis, derived from an ancient Greek word meaning \u201Cto make,\u201D\

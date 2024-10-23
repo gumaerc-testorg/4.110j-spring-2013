@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/3a6b0255e76997dad4f57a805e15154f_marblemaster2.jpg
+file: /ol-ocw-studio-app/courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/3a6b0255e76997dad4f57a805e15154f_marblemaster2.jpg
 file_size: 144890
 file_type: image/jpeg
 image_metadata:

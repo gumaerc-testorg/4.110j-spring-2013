@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/33af5a68b11252cca885d0536a215a9d_poesis6.jpg
+file: /courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/33af5a68b11252cca885d0536a215a9d_poesis6.jpg
 file_size: 67405
 file_type: image/jpeg
 image_metadata:

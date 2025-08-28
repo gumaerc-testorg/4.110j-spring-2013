@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/1ef259576ee839b1e45248f6718e025a_monstermakers1.JPG
+file: /ol-ocw-studio-app/courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/1ef259576ee839b1e45248f6718e025a_monstermakers1.JPG
 file_size: 45952
 file_type: image/jpeg
 image_metadata:

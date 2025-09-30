@@ -27,7 +27,7 @@ Look around you, and consider any type of information that you would like to rep
 
 Daston, Lorraine, and Peter Galison. _Objectivity_. Zone Books, 2007. ISBN: 9781890951788.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262134729) Maeda, John. _The Laws of Simplicity_. MIT Press, 2006. ISBN: 9780262134729.
+{{% resource_link "f3b4f335-0847-47a6-ac45-398f8363ea96" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Maeda, John. _The Laws of Simplicity_. MIT Press, 2006. ISBN: 9780262134729.
 
 McLuhan, Marshall. "The Medium is the Message." Chapter 1 in _Understanding Media: The Extensions of Man_. Signet, 1964.
 
@@ -52,11 +52,11 @@ Your "something" can be any scale and made out of any material. It can be edible
 
 ### Recommended Readings
 
-Aranda, Benjamin, and Chris Lasch. _Pamphlet Architecture 27: Tooling_. Princeton Architectural Press, 2005. ISBN: 9781568985473. \[Preview with [Google Books](http://books.google.com/books?id=MG8xfIe55t0C&printsec=frontcover)\]
+Aranda, Benjamin, and Chris Lasch. _Pamphlet Architecture 27: Tooling_. Princeton Architectural Press, 2005. ISBN: 9781568985473. \[Preview with {{% resource_link "985b3d76-64fb-4c7d-8dc9-d38b205dfee3" "Google Books" %}}\]
 
 Spencer, Jessica, and Chris Lefteri. _Making It: Manufacturing Techniques for Product Design_. Laurence King Publishing, 2007. ISBN: 9781856695060.
 
-Maker Media. [www.makezine.com](http://www.makezine.com/).
+Maker Media. {{% resource_link "a76fa07b-9129-4de1-bb07-65808b755879" "www.makezine.com" %}}.
 
 Assignment 3: Design of Play (design a game that abstracts a global issue)
 --------------------------------------------------------------------------
@@ -82,4 +82,4 @@ Once the game is produced, you should play the game as well as allow another gro
 
 Huizinga, Johan. _Homo Ludens: A Study of the Play-Element in Culture_. Beacon Press, 1971. ISBN: 9780807046814.
 
-Zimmerman, Eric. "[Play as Research: The Iterative Design Process (PDF - 5.17MB)](https://static1.squarespace.com/static/579b8aa26b8f5b8f49605c96/t/59921253cd39c3da5bd27a6f/1502745178453/Iterative_Design.pdf)." July 8, 2003.
+Zimmerman, Eric. "{{% resource_link "ade88ec3-75e4-42cd-95f7-e06416821989" "Play as Research: The Iterative Design Process (PDF - 5.17MB)" %}}." July 8, 2003.

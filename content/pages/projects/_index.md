@@ -14,12 +14,12 @@ The details and deliverables for each of the assignments can be found on the {{%
 Assignment 1: Design of Representation (create a representational system that communicates information)
 -------------------------------------------------------------------------------------------------------
 
-Examples of {{% resource_link "3cf335b8-65b7-4d17-b2c3-3c96cfddbcfd" "student projects for Assignment 1: Design of Representation" %}} are viewable through the MIT Center for Arts, Science, and Technology (CAST) blog.
+Examples of [student projects for Assignment 1: Design of Representation](https://arts.mit.edu/designing-representational-systems/) are viewable through the MIT Center for Arts, Science, and Technology (CAST) blog.
 
 Assignment 2: Design of Fabrication (make something that helps you make something)
 ----------------------------------------------------------------------------------
 
-Examples of {{% resource_link "8514c5ee-761d-4875-9a68-18a8de77eaf9" "student projects for Assignment 2: Design of Fabrication" %}} are viewable through the MIT Center for Arts, Science, and Technology (CAST) blog.
+Examples of [student projects for Assignment 2: Design of Fabrication](http://arts.mit.edu/designing-new-tools/) are viewable through the MIT Center for Arts, Science, and Technology (CAST) blog.
 
 Assignment 3: Design of Play (design a game that abstracts a global issue)
 --------------------------------------------------------------------------

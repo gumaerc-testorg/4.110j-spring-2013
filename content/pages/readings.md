@@ -37,17 +37,17 @@ Design Across Scales: Intersections between Design, Science, and Technology
 {{< tdopen >}}
 
 
-Colomina, Beatriz. "{{% resource_link "378cd28d-fbeb-42a5-9875-64885d583fd9" "Enclosed by Images: The Eameses' Multimedia Architecture" %}}." _Grey Room_ 02 (2001): 6-29.
+Colomina, Beatriz. "[Enclosed by Images: The Eameses' Multimedia Architecture](http://dx.doi.org/10.1162/152638101750172975)." _Grey Room_ 02 (2001): 6-29.
 
-Aldersey-Williams, Hugh, Peter Hall, et al. _Design and the Elastic Mind_. Edited by Paola Antonelli. Museum of Modern Art, 2008. ISBN: 9780870707322. \[Preview with {{% resource_link "8e8400a5-1b0a-4887-a70e-4f0fcb23958a" "Google Books" %}}\]
+Aldersey-Williams, Hugh, Peter Hall, et al. _Design and the Elastic Mind_. Edited by Paola Antonelli. Museum of Modern Art, 2008. ISBN: 9780870707322. \[Preview with [Google Books](http://books.google.com/books?id=u1kxPGb2hrQC&printsec=frontcover)\]
 
-Museum of Modern Art. "{{% resource_link "ace7d72a-e5de-43fa-ad46-76c0dfe0ba35" "Design and the Elastic Mind" %}}." Museum of Modern Art.
+Museum of Modern Art. "[Design and the Elastic Mind](http://www.moma.org/interactives/exhibitions/2008/elasticmind/)." Museum of Modern Art.
 
 Morrison, Philip, and Phylis Morrison. _Powers of Ten: About the Relative Size of Things in the Universe and the Effect of Adding Another Zero_. Scientific American Library, 1982.
 
-Eames, Charles, and Ray Eames. "{{% resource_link "82ef47dd-ff89-4386-9652-8259adda6bd4" "Powers of Ten" %}}." Eames Office LLC, 1977.
+Eames, Charles, and Ray Eames. "[Powers of Ten](http://www.eamesoffice.com/the-work/powers-of-ten/)." Eames Office LLC, 1977.
 
-Ruparell, Rajeev. "Powers of Ten—A Rough Sketch (1968)." March 6, 2012. Originally released 1968 by Charles and Ray Eames. Youtube. {{% resource_link "6cd447c2-08c2-412f-8ea5-e5164b0e782c" "http://www.youtube.com/watch?v=mmHa-meEOkE" %}}
+Ruparell, Rajeev. "Powers of Ten—A Rough Sketch (1968)." March 6, 2012. Originally released 1968 by Charles and Ray Eames. Youtube. [http://www.youtube.com/watch?v=mmHa-meEOkE](http://www.youtube.com/watch?v=mmHa-meEOkE)
 
 
 {{< tdclose >}}
@@ -63,13 +63,13 @@ Design of Futures: Past Futures, Utopian Visions, and Tomorrows of Today
 {{< tdopen >}}
 
 
-Jameson, Fredric. _Archaeologies of the Future: The Desire Called Utopia and Other Science Fictions_. Verso, 2005. ISBN: 9781844670338. \[Preview with {{% resource_link "e202a6ea-3764-48ac-ab3a-37da695df000" "Google Books" %}}\]
+Jameson, Fredric. _Archaeologies of the Future: The Desire Called Utopia and Other Science Fictions_. Verso, 2005. ISBN: 9781844670338. \[Preview with [Google Books](http://books.google.com/books?id=sPBad_aN0i0C&printsec=frontcover)\]
 
-Cook, Peter. _Archigram_. Princeton Architectural Press, 1999. ISBN: 9781568981949. \[Preview with {{% resource_link "285a87ab-19fb-4257-8fef-20871c6f2dd3" "Google Books" %}}\]
+Cook, Peter. _Archigram_. Princeton Architectural Press, 1999. ISBN: 9781568981949. \[Preview with [Google Books](http://books.google.com/books?id=QqhubYvGmowC&printsec=frontcover)\]
 
-{{% resource_link "38dfe18d-30d6-46e2-b48d-e6b432c58d06" "Online Archigram archive of images" %}}
+[Online Archigram archive of images](http://archigram.westminster.ac.uk/)
 
-Wigley, Mark. _Constant's New Babylon: The Hyper-Architecture of Desire_. Witte de With, 1999. ISBN: 9789064503436. \[Preview with {{% resource_link "a4272127-6642-40ef-848b-d0fd83027a66" "Google Books" %}}\]
+Wigley, Mark. _Constant's New Babylon: The Hyper-Architecture of Desire_. Witte de With, 1999. ISBN: 9789064503436. \[Preview with [Google Books](http://books.google.com/books?id=L7P_IXPXt98C&printsec=frontcover)\]
 
 
 {{< tdclose >}}
@@ -87,7 +87,7 @@ Design of Representation: Notation, Information, and Communication
 
 Daston, Lorraine, and Peter Galison. _Objectivity_. Zone Books, 2007. ISBN: 9781890951788.
 
-{{% resource_link "f3b4f335-0847-47a6-ac45-398f8363ea96" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Maeda, John. _The Laws of Simplicity_. MIT Press, 2006. ISBN: 9780262134729.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262134729) Maeda, John. _The Laws of Simplicity_. MIT Press, 2006. ISBN: 9780262134729.
 
 McLuhan, Marshall. "The Medium is the Message." Chapter 1 in _Understanding Media: The Extensions of Man_. Signet, 1964.
 
@@ -109,9 +109,9 @@ Design of Data: Computation, Visualization, and Big Data
 
 Maeda, John. _Creative Code: Aesthetics + Computation_. Thames & Hudson, 2004. ISBN: 9780500285176.
 
-{{% resource_link "45a19a51-f8d7-482c-857c-ee3bb54bd10c" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Reas, Casey, and Ben Fry. _Processing: A Programming Handbook for Visual Designers and Artists_. MIT Press, 2007. ISBN: 9780262182621. \[Preview with {{% resource_link "0f9f2489-b7be-42c2-8454-356e234c5645" "Google Books" %}}\]
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262182621) Reas, Casey, and Ben Fry. _Processing: A Programming Handbook for Visual Designers and Artists_. MIT Press, 2007. ISBN: 9780262182621. \[Preview with [Google Books](http://books.google.com/books?id=tqW75bfJkxIC&printsec=frontcover)\]
 
-Fry, Ben. _Visualizing Data: Exploring and Explaining Data with the Processing Environment_. O'Reilly Media, 2008. ISBN: 9780596514556. \[Preview with {{% resource_link "8466a6ef-ec33-43a5-b8dd-d548977005b9" "Google Books" %}}\]
+Fry, Ben. _Visualizing Data: Exploring and Explaining Data with the Processing Environment_. O'Reilly Media, 2008. ISBN: 9780596514556. \[Preview with [Google Books](http://books.google.com/books?id=6jsVAiULQBgC&printsec=frontcover)\]
 
 
 {{< tdclose >}}
@@ -127,7 +127,7 @@ Design of Fabrication: Tools, Techniques, and Technologies
 {{< tdopen >}}
 
 
-Aranda, Benjamin, and Chris Lasch. _Pamphlet Architecture 27: Tooling_. Princeton Architectural Press, 2005. ISBN: 9781568985473. \[Preview with {{% resource_link "985b3d76-64fb-4c7d-8dc9-d38b205dfee3" "Google Books" %}}\]
+Aranda, Benjamin, and Chris Lasch. _Pamphlet Architecture 27: Tooling_. Princeton Architectural Press, 2005. ISBN: 9781568985473. \[Preview with [Google Books](http://books.google.com/books?id=MG8xfIe55t0C&printsec=frontcover)\]
 
 Giedion, Sigfried. _Mechanization Takes Command: A Contribution to Anonymous History_. Oxford University Press, 1948.
 
@@ -147,9 +147,9 @@ Design of Mimicry: Models, Systems, and Processes
 {{< tdopen >}}
 
 
-Pearce, Peter. _Structure in Nature Is a Strategy for Design_. MIT Press, 1980. ISBN: 9780262660457. \[Preview with {{% resource_link "c2d96155-bacb-48d0-a643-225cb89bfcf7" "Google Books" %}}\]
+Pearce, Peter. _Structure in Nature Is a Strategy for Design_. MIT Press, 1980. ISBN: 9780262660457. \[Preview with [Google Books](http://books.google.com/books?id=sfc2OEuE8oQC&printsec=frontcover)\]
 
-Ball, Philip. _Branches: Nature's Patterns: A Tapestry in Three Parts_. Oxford University Press, 2009. ISBN: 9780199237982. \[Preview with {{% resource_link "53a97681-4005-4504-b9ea-2f02fc7c7f81" "Google Books" %}}\]
+Ball, Philip. _Branches: Nature's Patterns: A Tapestry in Three Parts_. Oxford University Press, 2009. ISBN: 9780199237982. \[Preview with [Google Books](http://books.google.com/books?id=RDZZlf6tyBcC&printsec=frontcover)\]
 
 
 {{< tdclose >}}
@@ -169,7 +169,7 @@ Minsky, Marvin L. _The Society of Mind_. Simon and Schuster, 1988. ISBN: 9780671
 
 Wiener, Norbert. _Cybernetics: or Control and Communication in the Animal and the Machine_. The Technology Press, 1948.
 
-Shannon, Claude E. "{{% resource_link "ae231b9a-80fd-44a6-b54f-7c0f81794c6b" "A Mathematical Theory of Communication.\" (PDF)" %}} _The Bell System Technical Journal_ 27 (1948): 379–423, and 623–56.
+Shannon, Claude E. "[A Mathematical Theory of Communication." (PDF)](http://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CCwQFjAA&url=http%3A%2F%2Fcm.bell-labs.com%2Fcm%2Fms%2Fwhat%2Fshannonday%2Fshannon1948.pdf&ei=0ydFUu2EOsfTrQf_vYEg&usg=AFQjCNElxuA1pHILAg-mmWI0gX03OT0NHA&bvm=bv.53217764,d.bmk) _The Bell System Technical Journal_ 27 (1948): 379–423, and 623–56.
 
 Simon, Herbert A. _The Sciences of the Artificial_. MIT Press, 1981. ISBN: 9780262690737.
 
@@ -191,7 +191,7 @@ Huizinga, Johan. _Homo Ludens: A Study of the Play—Element in Culture_. Beacon
 
 Galloway, Alexander R. _Gaming: Essays on Algorithmic Culture_. University of Minnesota Press, 2006. ISBN : 9780816648511.
 
-Walker, Rob. "{{% resource_link "fa047c87-efcf-42f5-93d8-31c73dfc2452" "An Interview with Kevin Slavin" %}}." _Design Observer_, October 10, 2011.
+Walker, Rob. "[An Interview with Kevin Slavin](http://designobserver.com/article.php?id=30608)." _Design Observer_, October 10, 2011.
 
 
 {{< tdclose >}}
@@ -207,7 +207,7 @@ Design of Alternative Futures: Utopias and Dystopias in Science Fiction
 {{< tdopen >}}
 
 
-Baudrillard, Jean. _Simulacra and Simulation_. University of Michigan Press, 1995. ISBN: 9780472065219. \[Preview with {{% resource_link "628fcacc-ae63-4028-8198-433a53bae6db" "Google Books" %}}\]
+Baudrillard, Jean. _Simulacra and Simulation_. University of Michigan Press, 1995. ISBN: 9780472065219. \[Preview with [Google Books](http://books.google.com/books?id=9Z9biHaoLZIC&printsec=frontcover)\]
 
 Eisenstein, Sergei. _Towards a Theory of Montage_. British Film Institute Publishing, 1991.
 
@@ -229,7 +229,7 @@ Design of Innovation: Concept to Commerce
 {{< tdopen >}}
 
 
-Brown, Tim. _Change by Design: How Design Thinking Transforms Organizations and Inspires Innovation_. Harper Business, 2009. ISBN: 9780061766084. \[Preview with {{% resource_link "87133282-ea82-4a87-b998-5efaa34e67fe" "Google Books" %}}\]
+Brown, Tim. _Change by Design: How Design Thinking Transforms Organizations and Inspires Innovation_. Harper Business, 2009. ISBN: 9780061766084. \[Preview with [Google Books](http://books.google.com/books?id=x7PjWyVUoVAC&printsec=frontcover)\]
 
 Mau, Bruce, and Jennifer Leonard. _Massive Change_. Phaidon, 2004. ISBN: 9780714844015.
 
